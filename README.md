@@ -27,7 +27,7 @@ In optical network planning, we must assign Modulation Formats before launching 
 
 ### Feature Engineering
 **Path Features:**
-- Length (km) of fiber spans (span 1 to span N)
+- Length (Km) of fiber spans (span 1 to span N)
 
 **Interference Features:**
 - Number of channels in each link (link 1 to link M)
