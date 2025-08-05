@@ -1,0 +1,11 @@
+# QoT Predictions - Required Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.21.0
+
+# Plotting and visualization
+matplotlib>=3.5.0
+
+# Machine learning library
+scikit-learn>=1.0.0
